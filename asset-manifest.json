@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/personal-album-website/static/css/main.8f059818.chunk.css",
+    "main.js": "/personal-album-website/static/js/main.84d6afd4.chunk.js",
+    "main.js.map": "/personal-album-website/static/js/main.84d6afd4.chunk.js.map",
+    "runtime-main.js": "/personal-album-website/static/js/runtime-main.f7d72bba.js",
+    "runtime-main.js.map": "/personal-album-website/static/js/runtime-main.f7d72bba.js.map",
+    "static/js/2.ada05018.chunk.js": "/personal-album-website/static/js/2.ada05018.chunk.js",
+    "static/js/2.ada05018.chunk.js.map": "/personal-album-website/static/js/2.ada05018.chunk.js.map",
+    "index.html": "/personal-album-website/index.html",
+    "precache-manifest.b2c9b03982442ea87504baa371a28ffb.js": "/personal-album-website/precache-manifest.b2c9b03982442ea87504baa371a28ffb.js",
+    "service-worker.js": "/personal-album-website/service-worker.js",
+    "static/css/main.8f059818.chunk.css.map": "/personal-album-website/static/css/main.8f059818.chunk.css.map",
+    "static/js/2.ada05018.chunk.js.LICENSE.txt": "/personal-album-website/static/js/2.ada05018.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/personal-album-website/static/media/bg.3621c5a5.jpeg",
+    "static/media/slider.jpeg": "/personal-album-website/static/media/slider.fc568e75.jpeg",
+    "static/media/slider1.jpeg": "/personal-album-website/static/media/slider1.43386b31.jpeg",
+    "static/media/slider2.jpeg": "/personal-album-website/static/media/slider2.750df821.jpeg",
+    "static/media/slider3.jpeg": "/personal-album-website/static/media/slider3.6e4db0ef.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7d72bba.js",
+    "static/js/2.ada05018.chunk.js",
+    "static/css/main.8f059818.chunk.css",
+    "static/js/main.84d6afd4.chunk.js"
+  ]
+}
